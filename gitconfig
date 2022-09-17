@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexandre.kadaoui@gmail.com
+	name = Alexandre Kadaoui
